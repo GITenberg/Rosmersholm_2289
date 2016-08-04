@@ -1,0 +1,44 @@
+_repo: Rosmersholm_2289
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sharp, R. Farquharson (Robert Farquharson)
+    alias: Sharp, Robert Farquharson
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '862'
+    url: http://www.gutenberg.org/2009/agents/862
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: Deep currents of thought about social and political change run through
+  'Rosmersholm', the last of Ibsen's political plays. Johannes Rosmer, a leading member
+  of his community, chooses to support the new reformist government despite his own
+  upper class origins. Unfortunately, his complicated relationship with Rebecca West,
+  a friend of his dead wife who now lives in his house, leaves him open to attacks
+  from those angry at what they see as his political and moral betrayal. Inspired
+  by an upheaval in Norwegian politics, as well as the life of one of Ibsen's friends,
+  'Rosmersholm' was first performed at the National Theatre in Bergen, Norway, in
+  1887. Despite its relative obscurity, it is considered by some Ibsen scholars to
+  be one of his masterpieces.
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcsh 'Europe -- Social conditions -- 19th century -- Drama'
+- !lcsh 'Suicide -- Drama'
+- !lcc 'PT'
+- GITenberg
+title: Rosmersholm
+url: http://www.gutenberg.org/ebooks/2289
